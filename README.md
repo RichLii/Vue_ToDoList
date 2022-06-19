@@ -1,4 +1,4 @@
-# vue
+# VU
 
 ## DEMO
 https://richlii.github.io/Vue_ToDoList/
