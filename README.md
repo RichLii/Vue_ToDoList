@@ -1,7 +1,7 @@
-# vue2
+# vue
 
 ## DEMO
-
+https://richlii.github.io/Vue_ToDoList/
 
 ## Project setup
 ```
