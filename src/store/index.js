@@ -23,11 +23,14 @@ export default createStore({
         let status = null
         switch (filter) {
           case 'all':
+            document.title = '待辦清單'
             return getters.list
           case 'active':
+            document.title = '待辦清單-未完成'
             status = false
             break
           case 'done':
+            document.title = '待辦清單-已完成'
             status = true
             break
         }
